@@ -16,7 +16,7 @@ MonoBehaviour:
   description: Protect Your Head
   weight: 0
   value: 0
-  itemSprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  itemSprite: {fileID: 21300000, guid: 09c962a8531be064abe75de7adfeb219, type: 3}
   itemDependencies: []
   itemRestrictions: []
   equipmentSlot: 0

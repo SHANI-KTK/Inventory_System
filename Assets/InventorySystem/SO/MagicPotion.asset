@@ -16,7 +16,7 @@ MonoBehaviour:
   description: Heals your health
   weight: 1
   value: 100
-  itemSprite: {fileID: 10915, guid: 0000000000000000f000000000000000, type: 0}
+  itemSprite: {fileID: 21300000, guid: 87255f7177371cd4dab90f62a19d110f, type: 3}
   itemDependencies: []
   itemRestrictions: []
   consumableEffect: 0
